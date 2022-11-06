@@ -2,9 +2,11 @@
 
 <h2> About Me </h2>
 
-- 👨🏻‍💻 I’m currently learning Java and Kotlin
+- 👨🏻‍💻 I’m currently learning Java and Kotlin.
 
 - 💬 Talk to me about career path of software etc.
+
+</br>
 
 
 <h3 align="left">Software and Tools</h3>
@@ -15,6 +17,7 @@
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"></a>
 </p>
 
+</br>
 
 <h3 align="left">Languages</h3>
 <p>
@@ -25,10 +28,12 @@
   
 </p>
 
+</br>
+
 
 <h2> Connect with me </h2>
-<a href = 'ekrem.eray02@gmail.com'> <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=yellow"/></a> 
-<a href = 'https://www.linkedin.com/in/ekremeraykaya/'> <img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white"/></a> 
+
+<a href = 'https://www.linkedin.com/in/ekremeraykaya'> <img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white"/></a> 
 <a href = 'https://www.twitter.com/ekremeraykayaa'> <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"/></a> 
 
 </br>
