@@ -1,16 +1,40 @@
-### Hi there 👋
+<img width="30%" align="right" src="https://media.giphy.com/media/VkMV9TldsPd28/giphy.gif" width="200" height="200" />
 
-<!--
-**ekremeraykaya/ekremeraykaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> About Me </h2>
 
-Here are some ideas to get you started:
+- 👨🏻‍💻 I’m currently learning Java and Kotlin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Talk to me about career path of software etc.
+
+
+<h3 align="left">Software and Tools</h3>
+<p>
+    <img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"></a>
+    <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack Compose-373bf0?style==flat-square&logo=kotlin&logoColor=1df224"></a>
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></a>
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"></a>
+</p>
+
+
+<h3 align="left">Languages</h3>
+<p>
+  
+  <img alt="Java" src="https://img.shields.io/badge/Java-orange?style==flat-square&logo=Java&logoColor=white"></a>
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style==flat-square&logo=Android&logoColor=white"></a>
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-373bf0?style==flat-square&logo=kotlin&logoColor=orange"></a>
+  
+</p>
+
+
+<h2> Connect with me </h2>
+<a href = 'ekrem.eray02@gmail.com'> <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=yellow"/></a> 
+<a href = 'https://www.linkedin.com/in/ekremeraykaya/'> <img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white"/></a> 
+<a href = 'https://www.twitter.com/ekremeraykayaa'> <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"/></a> 
+
+</br>
+</br>
+
+
+![Snake animation](https://svgshare.com/i/_CU.svg)
+
+<br>
