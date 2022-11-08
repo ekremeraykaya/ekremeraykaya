@@ -44,7 +44,9 @@
 <!--END_SECTION:waka-->
 
 
+</br>
+</br>
 
 ![Snake animation](https://svgshare.com/i/_CU.svg)
 
-<br>
+<b>
