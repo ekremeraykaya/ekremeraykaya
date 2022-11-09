@@ -38,6 +38,7 @@
 
 </br>
 </br>
+</br>
 
 
 <!--START_SECTION:waka-->
@@ -49,5 +50,3 @@
 </br>
 
 ![Snake animation](https://svgshare.com/i/_CU.svg)
-
-<b>
