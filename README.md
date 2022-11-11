@@ -37,7 +37,8 @@
 <a href = 'https://www.twitter.com/ekremeraykayaa'> <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"/></a> 
 
 </br>
-
+</br>
+</br>
 
 
 
@@ -48,4 +49,6 @@
 
 
 
+</br>
+</br>
 </br>
