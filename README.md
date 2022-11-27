@@ -2,7 +2,7 @@
 
 <h2> About Me </h2>
 
-- 👨🏻‍💻 I’m currently learning Java and Kotlin.
+- 👨🏻‍💻 I’m currently learning Java and Android.
 
 - 💬 Talk to me about career path of software etc.
 
@@ -12,9 +12,9 @@
 <h3 align="left">Software and Tools</h3>
 <p>
     <img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"></a>
-    <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack Compose-373bf0?style==flat-square&logo=kotlin&logoColor=1df224"></a>
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></a>
+    <!-- <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack Compose-373bf0?style==flat-square&logo=kotlin&logoColor=1df224"></a> -->
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"></a>
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></a>    
 </p>
 
 </br>
@@ -24,7 +24,7 @@
   
   <img alt="Java" src="https://img.shields.io/badge/Java-orange?style==flat-square&logo=Java&logoColor=white"></a>
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style==flat-square&logo=Android&logoColor=white"></a>
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-373bf0?style==flat-square&logo=kotlin&logoColor=orange"></a>
+  <!-- <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-373bf0?style==flat-square&logo=kotlin&logoColor=orange"></a> -->
   
 </p>
 
