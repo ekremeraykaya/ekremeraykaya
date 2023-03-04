@@ -2,7 +2,7 @@
 
 <h2> About Me </h2>
 
-- 👨🏻‍💻 I’m currently learning Java and Android.
+- 👨🏻‍💻 I’m currently learning Java and Kotlin.
 
 - 💬 Talk to me about career path of software etc.
 
