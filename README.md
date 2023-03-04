@@ -23,8 +23,8 @@
 <p>
   
   <img alt="Java" src="https://img.shields.io/badge/Java-orange?style==flat-square&logo=Java&logoColor=white"></a>
-  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style==flat-square&logo=Android&logoColor=white"></a>
-  <!-- <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-373bf0?style==flat-square&logo=kotlin&logoColor=orange"></a> -->
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-373bf0?style==flat-square&logo=kotlin&logoColor=orange"></a> 
+  <!-- <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style==flat-square&logo=Android&logoColor=white"></a> -->
   
 </p>
 
